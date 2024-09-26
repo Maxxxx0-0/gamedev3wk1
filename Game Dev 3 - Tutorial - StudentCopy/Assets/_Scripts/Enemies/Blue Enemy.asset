@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0ba79002652ec114bb8ae0ae082f8ce9, type: 3}
-  m_Name: Grey Enemy
+  m_Name: Blue Enemy
   m_EditorClassIdentifier: 
-  shipsprite: {fileID: -1994429876, guid: 0cdc11648b682ce44b238fd9d78bb1b5, type: 3}
-  shipSpeed: 3
-  shipHp: 3
+  shipsprite: {fileID: -203252155, guid: 0cdc11648b682ce44b238fd9d78bb1b5, type: 3}
+  shipSpeed: 4
+  shipHp: 1
